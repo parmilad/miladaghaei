@@ -1330,3 +1330,12 @@ section.lazy-placeholder:after {
     height: calc(100% - 56px);
   }
 }
+.cid-sfQNBK40Wb {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-sfQNBK40Wb .mbr-text,
+.cid-sfQNBK40Wb blockquote {
+  color: #767676;
+}
