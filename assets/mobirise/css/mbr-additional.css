@@ -695,7 +695,7 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-suDxHjBYeT .mbr-section-subtitle {
-  text-align: left;
+  text-align: center;
 }
 .cid-pOnCwcZapr {
   padding-top: 15px;
@@ -1185,7 +1185,7 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-suDIs0XkJh .mbr-step-text {
-  text-align: left;
+  text-align: center;
 }
 .cid-suDIsAxG1M {
   padding-top: 0px;
@@ -1218,9 +1218,11 @@ section.lazy-placeholder:after {
 .cid-suDL1UiwlU .testimonial-text {
   font-style: italic;
   font-weight: 300;
+  text-align: right;
 }
 .cid-suDL1UiwlU .mbr-author-name {
   font-weight: bold;
+  text-align: right;
 }
 .cid-suDL1UiwlU .media-container-row {
   word-wrap: break-word;
@@ -1236,6 +1238,9 @@ section.lazy-placeholder:after {
   .cid-suDL1UiwlU .media-content {
     padding-top: 1.5rem !important;
   }
+}
+.cid-suDL1UiwlU .mbr-author-desc {
+  text-align: right;
 }
 .cid-suDL2wOnRk {
   padding-top: 60px;
