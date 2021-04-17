@@ -40,7 +40,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 79,
+    "uniqCompNum": 83,
     "versionPublish": "5.3.0",
     "imageResize": true,
     "screenshot": "screenshot.png"
@@ -363,6 +363,23 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content8",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">Trophospher</a>\n                    <a class=\"btn btn-success-outline\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">Ray tracing</a> <a class=\"btn btn-secondary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">Altimetry</a> <a class=\"btn btn-danger-outline\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">InSAR</a> <a class=\"btn btn-warning\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">DATA processing</a> <a class=\"btn btn-warning-outline\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">Bernese</a>  <a class=\"btn btn-danger\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">Ionosphere</a> <a class=\"btn btn-primary-outline\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">Tomography</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "suRPiDxK96",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content8-2a"
         },
         {
           "alias": false,
